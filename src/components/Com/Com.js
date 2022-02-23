@@ -2,7 +2,7 @@ import React from 'react'
 
 const Com = () => {
   return (
-    <div>Com</div>
+    <div>Take Fork</div>
   )
 }
 
